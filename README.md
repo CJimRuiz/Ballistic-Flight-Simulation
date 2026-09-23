@@ -2,6 +2,9 @@
 
 A 3D numerical visualization in MATLAB modeling the muzzle velocity, axial spin stabilization, and barrel-exit epicyclic nutation (pitch and yaw oscillation) of a WWII-standard .30-06 Springfield M2 Ball projectile.
 
+## Simulink 6-DOF System Architecture
+<img width="1788" height="1056" alt="Screenshot 2026-09-23 013247" src="https://github.com/user-attachments/assets/84dcf59a-aba7-46f6-bc0e-8ec5fa9a862e" />
+
 ## Simulation Animation
 ![Bullet Simulation](bullet_animation.gif)
 
