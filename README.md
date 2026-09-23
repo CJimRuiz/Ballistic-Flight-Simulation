@@ -45,3 +45,4 @@ Physical dimensions and initial kinematic states are referenced directly from U.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/CJimRuiz/Ballistic-Flight-Simulation.git](https://github.com/CJimRuiz/Ballistic-Flight-Simulation.git)
+run('bullet_sim.m')
