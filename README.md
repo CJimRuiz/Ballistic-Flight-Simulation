@@ -15,6 +15,9 @@ Physical dimensions and initial kinematic states are referenced directly from U.
 > **Primary Source:**  
 > Headquarters, Department of the Army, *TM 43-0001-27: Army Ammunition Data Sheets - Small Arms Ammunition*, Chapter 5, Page 5-9 ("Cartridge, Caliber .30, Ball, M2").
 
+<img width="1088" height="1408" alt="Screenshot 2026-09-23 011358" src="https://github.com/user-attachments/assets/7ed857be-ad0a-4906-87fd-7ec02f5f69da" />
+
+
 ### Kinematic & Ballistic Properties
 - **Projectile Type**: Caliber .30, Ball, M2 (150–152 grain, flat base)
 - **Reference Velocity ($v_0$)**: $2{,}740\text{ ft/s}$ ($835.15\text{ m/s}$) measured at $78\text{ ft}$ ($23.77\text{ m}$) from muzzle
